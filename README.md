@@ -1,6 +1,9 @@
 # Case
 I wonder if dividing the angular/src/shared/service-proxies/service-proxies.ts would help to make the application more responsive. NSwag can be used to generate this file from the backend. This is only a starters template, but when functionallity is added, the file gets really big.
 
+# Generate service proxies with Nswag
+ * cd to angular/nswag
+ * run .\refresh.bat
 
 # Info about asp.net boilerplate
 ## Introduction
