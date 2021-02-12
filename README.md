@@ -1,8 +1,9 @@
-# Important
+# Case
+I wonder if dividing the angular/src/shared/service-proxies/service-proxies.ts would help to make the application more responsive. NSwag can be used to generate this file from the backend. This is only a starters template, but when functionallity is added, the file gets really big.
 
-Issues of this repository are tracked on https://github.com/aspnetboilerplate/aspnetboilerplate. Please create your issues on https://github.com/aspnetboilerplate/aspnetboilerplate/issues.
 
-# Introduction
+#Info about asp.net boilerplate
+## Introduction
 
 This is a template to create **ASP.NET Core MVC / Angular** based startup projects for [ASP.NET Boilerplate](https://aspnetboilerplate.com/Pages/Documents). It has 2 different versions:
 
@@ -11,11 +12,11 @@ This is a template to create **ASP.NET Core MVC / Angular** based startup projec
  
 User Interface is based on [AdminLTE theme](https://github.com/ColorlibHQ/AdminLTE).
  
-# Download
+## Download
 
 Create & download your project from https://aspnetboilerplate.com/Templates
 
-# Screenshots
+## Screenshots
 
 #### Sample Dashboard Page
 ![](_screenshots/module-zero-core-template-ui-home.png)
@@ -27,11 +28,11 @@ Create & download your project from https://aspnetboilerplate.com/Templates
 
 ![](_screenshots/module-zero-core-template-ui-login.png)
 
-# Documentation
+## Documentation
 
 * [ASP.NET Core MVC & jQuery version.](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Core)
 * [ASP.NET Core & Angular  version.](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Angular)
 
-# License
+## License
 
 [MIT](LICENSE).
